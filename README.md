@@ -1,2 +1,4 @@
-# booting-from-zero
-A minimal boot sector written in Assembly to learn how OSes start from scratch.
+# HelixOS
+
+first run 'make'
+then run 'qemu-system-x86_64 -fda build/main_floppy.img'
